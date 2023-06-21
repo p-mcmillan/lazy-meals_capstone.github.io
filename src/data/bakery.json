@@ -1,0 +1,615 @@
+[
+  {
+    "id": "19467ab1-3d3f-43bd-b890-b7aa35677298",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:08:21.040Z",
+    "item_brand": "Farmer's Market",
+    "item_name": "Oatmeal Raisin Cookies",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20566295/b2/en/side/20566295_side_a06_@2.png"
+  },
+  {
+    "id": "5763850a-9d41-465f-9373-33884d5aeca0",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:08:27.889Z",
+    "item_brand": "DItaliano",
+    "item_name": "Brioche-Style Hamburger Buns",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21450791/b2/en/front/21450791_front_a06_@2.png"
+  },
+  {
+    "id": "a1099ccc-d468-4da7-8a1c-7c5b0d9c9b26",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:08:35.800Z",
+    "item_brand": "DItaliano",
+    "item_name": "Brizzolio Sausage Buns",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20673736/b2/en/front/20673736_front_a06_@2.png"
+  },
+  {
+    "id": "7912e057-0d60-4943-a260-5980edab39bc",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:08:44.362Z",
+    "item_brand": "Casa Mendosa",
+    "item_name": "6 Medium Tortillas, 50-50 Corn Wheat Mix",
+    "item_sale_price": "4.29",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20980625/b2/en/front/20980625_front_a06_@2.png"
+  },
+  {
+    "id": "3f7acf82-a270-467e-a65c-243ba2c92cba",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:08:51.770Z",
+    "item_brand": "Casa Mendosa",
+    "item_name": "6 Large Tortillas, Tomato Salsa",
+    "item_sale_price": "4.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20981522/b2/en/front/20981522_front_a06_@2.png"
+  },
+  {
+    "id": "7eaeb715-c03f-4de8-a66a-37c0bb912b08",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:09:08.330Z",
+    "item_brand": "Villaggio",
+    "item_name": "Artesano™ Original White Bread",
+    "item_sale_price": "4.39",
+    "item_original_price": "4.79",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21285580/b2/en/side/21285580_side_a06_@2.png"
+  },
+  {
+    "id": "1fce3f3e-48de-49b6-9103-a3aebea8dc12",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:09:15.662Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Ancient Grains & Red Fife Bread",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21178640/b2/en/front/21178640_front_a06_@2.png"
+  },
+  {
+    "id": "bb904912-dcaa-4de8-988f-da257d99cf9c",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:09:24.748Z",
+    "item_brand": "Casa Mendosa",
+    "item_name": "Large Original Tortillas",
+    "item_sale_price": "4.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20318788/b2/en/front/20318788_front_a06_@2.png"
+  },
+  {
+    "id": "fd7247e9-3017-4fbf-bdfe-0a83adf88aaf",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:09:32.249Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Sourdough Bagel",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21433369/b2/en/front/21433369_front_a06_@2.png"
+  },
+  {
+    "id": "e19c60c6-6282-4b90-8bf1-d84b528df402",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:09:40.105Z",
+    "item_brand": "DItaliano",
+    "item_name": "Thick Sliced Brioche-Style Loaf",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21450797/b2/en/front/21450797_front_a06_@2.png"
+  },
+  {
+    "id": "bae9681d-fdfc-4a69-a7b9-e406b851a18d",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:09:54.734Z",
+    "item_brand": "Farmer's Market",
+    "item_name": "Chocolate Chip Cookies",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20566774/b2/en/front/20566774_front_a06_@2.png"
+  },
+  {
+    "id": "0c26d3e6-db9e-4a0d-9ddf-fd30581b3f3f",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:10:02.868Z",
+    "item_brand": "La Baguetterie",
+    "item_name": "Brioche Gourmet Buns",
+    "item_sale_price": "3.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21094261/b2/en/front/21094261_front_a06_@2.png"
+  },
+  {
+    "id": "9dc573bf-a596-4105-86bf-9adcd3e635a5",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:10:10.513Z",
+    "item_brand": "ACE",
+    "item_name": "Sesame Gourmet Hamburger Buns",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20963092/b2/en/top/20963092_top_a06_@2.png"
+  },
+  {
+    "id": "d0b6bd32-c722-4ddd-bf8b-d799a52b35d6",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:10:19.931Z",
+    "item_brand": "La Baguetterie",
+    "item_name": "White Baguette",
+    "item_sale_price": "3.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21405144/b2/en/front/21405144_front_a06_@2.png"
+  },
+  {
+    "id": "1a878018-fe2a-4549-9b07-ace976280e6a",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:10:34.229Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Cinnamon Raisin Bread",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21178967/b2/en/front/21178967_front_a06_@2.png"
+  },
+  {
+    "id": "ec76f520-ce20-4b36-a857-f422d8c73aa3",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:10:43.249Z",
+    "item_brand": "Casa Mendosa",
+    "item_name": "10 Medium Tortillas, Original",
+    "item_sale_price": "4.29",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20179156/b2/en/front/20179156_front_a06_@2.png"
+  },
+  {
+    "id": "8dac48f1-a0c5-4e62-b799-bd9b916078f1",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:10:50.468Z",
+    "item_brand": "Wonder",
+    "item_name": "White Bread",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20305674/b2/en/side/20305674_side_a06_@2.png"
+  },
+  {
+    "id": "5ab90926-a15f-4de3-b5b6-1f9641c122f7",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:10:58.641Z",
+    "item_brand": "Sara Lee",
+    "item_name": "Little Bites Chocolate Chip Muffins",
+    "item_sale_price": "4.69",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21121909/b2/en/closed/21121909_closed_a06_@2.png"
+  },
+  {
+    "id": "8f80f2d5-ee0b-463c-bb9b-14b6b50f211e",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:11:05.171Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Bread, Herb & Garlic",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21509870/b2/en/brand/21509870_brand_a06_@2.png"
+  },
+  {
+    "id": "c5f2cef5-d2b5-4028-b17a-435799af7d00",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:11:14.129Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Everything Bread",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21433366/b2/en/front/21433366_front_a06_@2.png"
+  },
+  {
+    "id": "e43ecf3c-1ba3-4f56-8258-56cd537c1d33",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:11:20.204Z",
+    "item_brand": "Wonder",
+    "item_name": "Whole Wheat Bread",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20310409/b2/en/side/20310409_side_a06_@2.png"
+  },
+  {
+    "id": "876de7f8-91db-4c3d-85e2-3a4fb1113111",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:11:50.048Z",
+    "item_brand": "Country Harvest",
+    "item_name": "14 Grains Bread",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21178642/b2/en/front/21178642_front_a06_@2.png"
+  },
+  {
+    "id": "2b644855-737e-42d0-bcb3-70027bb1081e",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:11:56.262Z",
+    "item_brand": "President's Choice",
+    "item_name": "Garlic Naan",
+    "item_sale_price": "3.29",
+    "item_original_price": "3.49",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20322759/b2/en/angle/20322759_angle_a06_@2.png"
+  },
+  {
+    "id": "969f6f57-df06-4ce1-8d10-f44cf7390ddc",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:12:04.751Z",
+    "item_brand": "Villaggio",
+    "item_name": "Toscana Extra Soft Hamburger Buns",
+    "item_sale_price": "3.79",
+    "item_original_price": "3.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21285577/b2/en/side/21285577_side_a06_@2.png"
+  },
+  {
+    "id": "5856ad02-2b68-4056-b711-dfd951573775",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:12:14.109Z",
+    "item_brand": "Dempster",
+    "item_name": "English Muffin Extra Crisp, 6 Pack",
+    "item_sale_price": "3.99",
+    "item_original_price": "4.49",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21345488/b2/en/side/21345488_side_a06_@2.png"
+  },
+  {
+    "id": "1d3f3d28-6e2b-4afb-9770-a827313b2201",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:12:21.080Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Everything Bagel",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21178597/b2/en/front/21178597_front_a06_@2.png"
+  },
+  {
+    "id": "9bc4d288-786b-42c0-8221-2ea8f9a46082",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:12:28.734Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Original Bagels",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21178546/b2/en/front/21178546_front_a06_@2.png"
+  },
+  {
+    "id": "f9eee879-52db-4dfd-b254-c81f9a54e8ad",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:12:35.766Z",
+    "item_brand": "Country Harvest",
+    "item_name": "14 Grain Bagels",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21178601/b2/en/front/21178601_front_a06_@2.png"
+  },
+  {
+    "id": "56e054bd-cd46-4217-9c72-7507416cbe10",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:12:44.532Z",
+    "item_brand": "Casa Mendosa",
+    "item_name": "10 Medium Tortillas, Whole Wheat",
+    "item_sale_price": "4.29",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20322956/b2/en/front/20322956_front_a06_@2.png"
+  },
+  {
+    "id": "d6226e4c-6f5b-432d-a481-aef8bc141871",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:12:52.098Z",
+    "item_brand": "Dempster",
+    "item_name": "100% Whole Wheat Bread",
+    "item_sale_price": "3.79",
+    "item_original_price": "5.39",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20147355/b2/en/side/20147355_side_a06_@2.png"
+  },
+  {
+    "id": "693ca150-31f5-4334-b3b4-cc8df573db76",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:12:59.681Z",
+    "item_brand": "President's Choice",
+    "item_name": "Burger Buns Gigantico",
+    "item_sale_price": "2.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20371958/b2/en/front/20371958_front_a06_@2.png"
+  },
+  {
+    "id": "67210dbb-107a-4902-bfbc-8a1b16421d44",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:13:15.625Z",
+    "item_brand": "Wonder",
+    "item_name": "Flour Tortillas White 10 Medium",
+    "item_sale_price": "4.29",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20976572/b2/en/front/20976572_front_a06_@2.png"
+  },
+  {
+    "id": "cefa0c92-b08f-4127-acb1-c6b5716a617f",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:13:23.269Z",
+    "item_brand": "President's Choice",
+    "item_name": "Traditional Naan",
+    "item_sale_price": "3.29",
+    "item_original_price": "3.49",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20321754/b2/en/angle/20321754_angle_a06_@2.png"
+  },
+  {
+    "id": "85749c00-02d8-42f6-96eb-ca79be5a6609",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:13:32.129Z",
+    "item_brand": "Wonder",
+    "item_name": "Hamburger Rolls",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20520827/b2/en/front/20520827_front_a06_@2.png"
+  },
+  {
+    "id": "c5221974-f80c-42bc-a898-6f03848d8eba",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:13:39.936Z",
+    "item_brand": "DItaliano",
+    "item_name": "Crustini Buns",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20521048/b2/en/front/20521048_front_a06_@2.png"
+  },
+  {
+    "id": "f8a756bb-d27c-45c4-aabf-2a3d42a9370a",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:13:46.328Z",
+    "item_brand": "Wonder",
+    "item_name": "Hamburger Rolls, Whole Wheat",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20381037/b2/en/side/20381037_side_a06_@2.png"
+  },
+  {
+    "id": "f57c118b-c217-469e-acbf-4539a2b5dfcd",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:14:02.926Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Bagels, Raisin Cinnamon with Whole Wheat",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20914389/b2/en/front/20914389_front_a06_@2.png"
+  },
+  {
+    "id": "48393667-4c80-48d1-8219-e7d62c679a73",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:14:10.813Z",
+    "item_brand": "Wonder",
+    "item_name": "Wrap Me White Flour Tortillas Large",
+    "item_sale_price": "4.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20976626/b2/en/front/20976626_front_a06_@2.png"
+  },
+  {
+    "id": "51351148-9427-42b7-a6ef-cd1e4a0491f5",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:14:25.341Z",
+    "item_brand": "Wonder",
+    "item_name": "Hamburger Rolls",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20520827/b2/en/front/20520827_front_a06_@2.png"
+  },
+  {
+    "id": "7e2bd218-9aed-40ea-af94-8b7cafc9b44d",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:14:33.667Z",
+    "item_brand": "DItaliano",
+    "item_name": "Crustini Buns",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20521048/b2/en/front/20521048_front_a06_@2.png"
+  },
+  {
+    "id": "f1036b4a-1de1-461f-9da0-9e6abeea623b",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:14:41.108Z",
+    "item_brand": "Wonder",
+    "item_name": "Hamburger Rolls, Whole Wheat",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20381037/b2/en/side/20381037_side_a06_@2.png"
+  },
+  {
+    "id": "8b075fab-2270-4fca-9f35-7f59b8aa60a6",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:14:49.472Z",
+    "item_brand": "ACE",
+    "item_name": "Classic Gourmet Hamburger Bun",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20790627/b2/en/front/20790627_front_a06_@2.png"
+  },
+  {
+    "id": "f2d9ecd3-04c8-43f2-b7c3-e0cc25818719",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:14:58.065Z",
+    "item_brand": "Wonder",
+    "item_name": "Hotdog Rolls",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20520828/b2/en/side/20520828_side_a06_@2.png"
+  },
+  {
+    "id": "7986ac71-b7b3-45c7-9ea2-02f9dde4f36e",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:15:07.163Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Bagels, Raisin Cinnamon with Whole Wheat",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20914389/b2/en/front/20914389_front_a06_@2.png"
+  },
+  {
+    "id": "071b93d2-9288-422d-8e66-7038b7833fee",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:15:15.757Z",
+    "item_brand": "Wonder",
+    "item_name": "Wrap Me White Flour Tortillas Large",
+    "item_sale_price": "4.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20976626/b2/en/front/20976626_front_a06_@2.png"
+  },
+  {
+    "id": "171c14e7-2f43-4072-af98-59661d66c7ce",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:15:23.208Z",
+    "item_brand": "Farmer's Market",
+    "item_name": "Cookies Oatmeal",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20566772/b2/en/front/20566772_front_a06_@2.png"
+  },
+  {
+    "id": "c028541e-6be2-4df8-a650-7f615b40d37e",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:15:30.953Z",
+    "item_brand": "ACE",
+    "item_name": "Cheddar Ciabatta Bun",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20791217/b2/en/front/20791217_front_a06_@2.png"
+  },
+  {
+    "id": "2137ff28-584e-40ac-9785-d2812600acd5",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:15:37.893Z",
+    "item_brand": "ACE",
+    "item_name": "White Gourmet Sausage Bun",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21025441/b2/en/front/21025441_front_a06_@2.png"
+  },
+  {
+    "id": "ba626892-843e-4e48-ad75-c0c420c0efbc",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:15:47.152Z",
+    "item_brand": "Farmer's Market",
+    "item_name": "Cookies, Peanut Butter, 12 Pack",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20752918/b2/en/front/20752918_front_a06_@2.png"
+  },
+  {
+    "id": "e468a9b7-2d47-4d4e-8309-41c3c33038ad",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:15:55.557Z",
+    "item_brand": "President's Choice",
+    "item_name": "Flatbread, Original",
+    "item_sale_price": "2.99",
+    "item_original_price": "3.09",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20910042/b2/en/front/20910042_front_a06_@2.png"
+  },
+  {
+    "id": "17b346a7-0926-48be-a9e9-ad73ba0d811c",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:16:02.903Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Cranberry & Oats Loaf",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21430976/b2/en/front/21430976_front_a06_@2.png"
+  },
+  {
+    "id": "6b3efd4d-7dc3-451a-8075-9b83ae9c44f5",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:16:10.703Z",
+    "item_brand": "Hostess",
+    "item_name": "Twinkies Cakes",
+    "item_sale_price": "2.99",
+    "item_original_price": "3.59",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21283752/b2/en/side/21283752_side_a06_@2.png"
+  },
+  {
+    "id": "81876ef7-36f2-4941-80b3-f58f25bfc50f",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:16:18.534Z",
+    "item_brand": "Sara Lee",
+    "item_name": "Little Bites™ Party Cake Muffins",
+    "item_sale_price": "4.69",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21403214/b2/en/side/21403214_side_a06_@2.png"
+  },
+  {
+    "id": "407821de-90c6-44fe-a69c-0fa100425e68",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:16:25.401Z",
+    "item_brand": "DItaliano",
+    "item_name": "Brizzolio Hamburger Buns",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20627103/b2/en/top/20627103_top_a06_@2.png"
+  },
+  {
+    "id": "a37d0ff4-72ba-4383-8c88-cd6cd6eedcc4",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:16:34.378Z",
+    "item_brand": "Hostess",
+    "item_name": "Cupcakes Cakes Vanilla Fun Pack",
+    "item_sale_price": "2.99",
+    "item_original_price": "3.59",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21311232/b2/en/side/21311232_side_a06_@2.png"
+  },
+  {
+    "id": "893ddbf4-3e68-4ac4-9d03-54e370b88426",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:16:43.404Z",
+    "item_brand": "DItaliano",
+    "item_name": "Thick Slices Bread",
+    "item_sale_price": "3.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20038335/b2/en/side/20038335_side_a06_@2.png"
+  },
+  {
+    "id": "3de66730-a04a-49a9-8bf4-49bf9cc945ea",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:16:52.878Z",
+    "item_brand": "Casa Mendosa",
+    "item_name": "Large Spinach Tortillas",
+    "item_sale_price": "4.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20300820/b2/en/front/20300820_front_a06_@2.png"
+  },
+  {
+    "id": "59af4719-b02e-4083-9c12-d297c60a05ba",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:17:02.199Z",
+    "item_brand": "President's Choice",
+    "item_name": "Original Thin Pizza Crusts Thin",
+    "item_sale_price": "4.19",
+    "item_original_price": "4.49",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21416545/b2/en/angle/21416545_angle_a06_@2.png"
+  },
+  {
+    "id": "28c7ad7f-4306-40fc-a4fc-72ba61bc64f8",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:17:12.274Z",
+    "item_brand": "Country Harvest",
+    "item_name": "Cranberry & Oats Bagel",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21433382/b2/en/front/21433382_front_a06_@2.png"
+  },
+  {
+    "id": "9da01376-ca31-47fa-abec-7280d18f7026",
+    "item_category": "bakery",
+    "date_scraped": "2023-06-20T15:17:21.543Z",
+    "item_brand": "PC Blue Menu",
+    "item_name": "100% Whole Grain Tortillas",
+    "item_sale_price": "4.29",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20185659/b2/en/front/20185659_front_a06_@2.png"
+  }
+]
