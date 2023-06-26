@@ -1,0 +1,71 @@
+@use "./fonts" as *;
+@use "./varibles" as *;
+@import "~bootstrap/scss/bootstrap";
+
+.home-logo {
+  height: 64px;
+  width: 64px;
+}
+
+.custom-navbar {
+}
+
+.color-nav {
+  background-color: #fdfd96;
+}
+
+.custom-navbar {
+  font-family: "Lexend Mega";
+  height: 80px;
+
+  margin: 0; /* Remove margin */
+  padding: 0; /* Remove padding */
+
+  .navbar-collapse {
+    padding: 0; /* Remove padding for collapse content */
+  }
+
+  .navbar-brand {
+    font-size: 24px; // Set the desired font size for the brand
+  }
+
+  .nav-link {
+    font-size: 18px; // Set the desired font size for the links
+  }
+  .dropdown-item {
+    &.custom-dropdown-item-1 {
+      background-color: #f8d6b3; // Set the desired background color for dropdown item 1
+    }
+
+    &.custom-dropdown-item-2 {
+      background-color: #fcdfff; // Set the desired background color for dropdown item 2
+    }
+
+    /* Add more custom dropdown items and set their background color */
+  }
+}
+
+.dropdown-menu.show {
+  margin: 0; /* Remove margin */
+  padding: 0; /* Remove padding */
+}
+
+.dropdown-divider {
+  margin: 0; /* Remove margin */
+  padding: 0; /* Remove padding */
+  background-color: #fdfd96;
+}
+
+.dropdown-menu {
+  --bs-dropdown-divider-margin-y: 0;
+}
+
+:root {
+  --bs-dropdown-divider-margin-y: 0; // Set the desired value for the margin
+}
+
+.custom-navbar {
+  .dropdown-divider {
+    margin: 0; // Set the desired margin for the dropdown divider
+  }
+}

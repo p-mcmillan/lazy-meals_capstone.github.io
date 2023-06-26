@@ -1,0 +1,42 @@
+@use "./fonts" as *;
+@use "./varibles" as *;
+
+.generated-recipe--wrapper {
+  background-color: #ff7a5c;
+  padding-left: 36px;
+  padding-right: 36px;
+  min-height: 100vh;
+}
+
+.generated-recipe--header {
+  font-family: "Lexend Mega ExtraBold";
+  font-size: 36px;
+  padding-top: 20px;
+  padding-left: 36px;
+  padding-bottom: 20px;
+}
+
+.generated-recipe {
+  border-radius: 0;
+  border: 2px solid black;
+  box-shadow: 10px 5px 5px black;
+  padding: 10px;
+  margin-right: 20%;
+  margin-left: 20%;
+  justify-content: center;
+  background-color: #87ceeb;
+  margin-bottom: 36px;
+}
+
+.no-bullets {
+  list-style-type: none;
+  margin-bottom: 0;
+  padding-bottom: 50px;
+}
+
+#fixed-btn {
+  position: fixed;
+  top: 50vh;
+  right: 0;
+  transform: translateX(50%);
+}

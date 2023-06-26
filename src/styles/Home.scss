@@ -1,9 +1,95 @@
-* {
-  background-color: red;
+@use "./fonts" as *;
+@use "./varibles" as *;
+
+.home {
+  background-color: #0b0b0f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  min-height: 100vh;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+
+  justify-content: center;
 }
 
-.div {
-  margin-top: 20px;
-  padding-top: 40px;
-  background-color: red;
+.hero-header {
+  font-family: "Lexend Mega ExtraBold";
+  color: white;
+  font-size: 40px;
+}
+
+.hero-container {
+  position: relative;
+  width: 100%;
+}
+
+.star {
+  position: absolute;
+}
+
+.star-1 {
+  top: 5%;
+  left: 10%;
+}
+
+.star-2 {
+  right: 10%;
+  top: -100%;
+}
+
+.star-3 {
+  right: 7%;
+  top: 15%;
+}
+
+.star-4 {
+  bottom: -200%;
+  right: 16%;
+}
+
+.planet-1 {
+  position: absolute;
+  top: 300px;
+  right: 0px;
+}
+
+.planet-2 {
+  position: absolute;
+  left: 10%;
+  top: 10%;
+}
+
+.sphere1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 50%;
+  width: 50%;
+}
+
+.sphere2 {
+  position: absolute;
+  height: 50%;
+  width: 50%;
+  top: 300px;
+  right: 0px;
+}
+
+.spacejunk1 {
+  position: absolute;
+  top: 450px;
+  right: 160px;
+  height: 64px;
+  width: 64px;
+}
+
+.spacejunk2 {
+  position: absolute;
+  top: 50px;
+  left: 210px;
+  height: 45px;
+  width: 45px;
 }

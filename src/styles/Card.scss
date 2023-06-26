@@ -1,0 +1,27 @@
+.checkbox-container {
+  display: inline-block;
+  width: 40px; /* Set the desired width */
+  height: 40px; /* Set the desired height */
+}
+
+.custom-card {
+  border-radius: 0;
+  border: 2px solid black;
+  box-shadow: 10px 5px 5px black;
+}
+
+// .custom-checkbox {
+//   border-radius: 0;
+//   border: 2px solid black;
+// }
+
+// .custom-card .custom-checkbox {
+//   border-radius: 0;
+//   border: 2px solid black;
+// }
+
+.custom-checkbox .form-check-input[type="checkbox"] {
+  border: 2px solid black;
+  border-radius: 0;
+  background-color: #e3dff2;
+}
