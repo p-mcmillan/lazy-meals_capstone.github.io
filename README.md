@@ -6,7 +6,7 @@
 
 This web application that leverages cutting-edge technologies to generate customized recipes based on real-time sales data from various supermarkets. By combining the versatility of React, the advanced natural language generation capabilities of GPT-3.5, and the robust web scraping functionality of Puppeteer.
 
-<h1 align="center">Hi 👋, I'm Pierre McMillan</h1>
+<h1 align="center">Hi 👋, I'm Pierre</h1>
 <h3 align="center">A passionate frontend developer from Vancouver Canada</h3>
 
 - 🔭 You can find the back-end to that project @ (https://github.com/p-mcmillan/lazy-meals_capstone-scraper)
