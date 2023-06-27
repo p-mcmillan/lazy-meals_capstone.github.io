@@ -63,7 +63,7 @@ const RecipeGeneratorAPI = ({ selectedItems }) => {
     <>
       <div>
         <Button
-          id="generate-btn"
+          id="fixed-btn generate-btn"
           onClick={handleGenerateButtonClick}
           type="submit"
         >
