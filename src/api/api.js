@@ -5,7 +5,7 @@ import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import Spinner from "react-bootstrap/Spinner";
 
-const API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
+//const API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
 
 const RecipeGeneratorAPI = ({ selectedItems }) => {
   const [, setRecipes] = useState([]);
@@ -16,6 +16,7 @@ const RecipeGeneratorAPI = ({ selectedItems }) => {
 
   const fetchRecipes = async (selectedItems) => {
     setIsLoading(true);
+    console.log("api items...", selectedItems);
 
     const prompt = `I have these ingredients: ${selectedItems.join(
       ", "

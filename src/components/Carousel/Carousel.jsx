@@ -1,4 +1,4 @@
-//import React, { useState } from "react";
+import React, { useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { FreeMode } from "swiper";
 //import { Autoplay, Pagination, Navigation } from "swiper";
@@ -11,28 +11,43 @@ import "../../styles/DavieStreet.scss";
 
 // try arrow
 
+let selectedItems = [];
 const Carousel = (props) => {
-  // const [selectedItems, setSelectedItems] = useState([]);
+  //const [selectedItems, setSelectedItems] = useState([]);
   //const price;
 
-  let selectedItems = [];
+  const [selectedItems, setSelectedItems] = useState([]);
 
   function handleCheckboxChange(event) {
     const { value, checked } = event.target;
     if (checked) {
-      // setSelectedItems((prevSelectedItems) => [...prevSelectedItems, value]);
-      selectedItems = selectedItems.filter((item) => item !== value);
-
-      // selectedItems.push(value);
+      setSelectedItems((prevSelectedItems) => [...prevSelectedItems, value]);
     } else {
-      // setSelectedItems((prevSelectedItems) =>
-      //   prevSelectedItems.filter((item) => item !== value)
-
-      // );
-      selectedItems.push(value);
-      selectedItems = selectedItems.filter((item) => item !== value);
+      setSelectedItems((prevSelectedItems) =>
+        prevSelectedItems.filter((item) => item !== value)
+      );
     }
   }
+
+  console.log(selectedItems);
+
+  // function handleCheckboxChange(event) {
+  //   const { value, checked } = event.target;
+  //   if (checked) {
+  //     // setSelectedItems((prevSelectedItems) => [...prevSelectedItems, value]);
+  //     selectedItems = selectedItems.filter((item) => item !== value);
+
+  //     // selectedItems.push(value);
+  //   } else {
+  //     // setSelectedItems((prevSelectedItems) =>
+  //     //   prevSelectedItems.filter((item) => item !== value)
+
+  //     // );
+  //     selectedItems.push(value);
+  //     selectedItems = selectedItems.filter((item) => item !== value);
+  //     console.log("carousel items selected..", selectedItems);
+  //   }
+  // }
 
   function handleCreateRecipeSubmit(event) {
     event.preventDefault();
