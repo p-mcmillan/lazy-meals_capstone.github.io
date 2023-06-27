@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+//import React, { useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { FreeMode } from "swiper";
-import { Autoplay, Pagination, Navigation } from "swiper";
+//import { Autoplay, Pagination, Navigation } from "swiper";
 import "swiper/css";
 import "swiper/css/free-mode";
 import "bootstrap/dist/css/bootstrap.css";
@@ -21,7 +21,9 @@ const Carousel = (props) => {
     const { value, checked } = event.target;
     if (checked) {
       // setSelectedItems((prevSelectedItems) => [...prevSelectedItems, value]);
-      selectedItems.push(value);
+      selectedItems = selectedItems.filter((item) => item !== value);
+
+      // selectedItems.push(value);
     } else {
       // setSelectedItems((prevSelectedItems) =>
       //   prevSelectedItems.filter((item) => item !== value)
@@ -61,11 +63,11 @@ const Carousel = (props) => {
             {props.davieData
               .filter((content) => content.item_category === "meat")
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
-                    item_category={content.itegm_category}
+                    item_category={content.item_category}
                     item_brand={content.item_brand}
                     item_sale_price={content.item_sale_price}
                     item_name={content.item_name}
@@ -94,7 +96,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -126,7 +128,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -157,7 +159,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -189,7 +191,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -220,7 +222,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -251,7 +253,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -282,7 +284,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -313,7 +315,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -364,7 +366,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}
@@ -395,7 +397,7 @@ const Carousel = (props) => {
                   content.item_image !== null
               )
               .map((content) => (
-                <SwiperSlide>
+                <SwiperSlide key={content.id}>
                   <Card
                     key={content.id}
                     id={content.id}

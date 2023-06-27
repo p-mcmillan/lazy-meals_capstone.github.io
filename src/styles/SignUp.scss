@@ -7,13 +7,15 @@
 
 .signUp-container {
   background-color: #b5d2ad;
+  height: 100vh;
 }
 
 .form-wrapper {
   margin-top: 0;
+  background-color: #b5d2ad;
   justify-content: center;
-  margin-left: 34.5px;
-  margin-right: 35.5px;
+  padding-left: 34.5px;
+  padding-right: 35.5px;
 }
 
 .btn {
@@ -62,4 +64,9 @@
 
 .custom-label {
   font-weight: bold;
+}
+
+.form-wrappe--inner {
+  padding-left: 20%;
+  padding-right: 20%;
 }

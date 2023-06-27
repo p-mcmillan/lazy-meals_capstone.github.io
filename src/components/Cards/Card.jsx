@@ -33,7 +33,7 @@ function CardComponent(props) {
         key={props.id}
       >
         <div>
-          <LazyLoad height={150} offset={50}>
+          <LazyLoad height={200} offset={50}>
             <Card.Img variant="top" src={item_image} />
           </LazyLoad>
         </div>

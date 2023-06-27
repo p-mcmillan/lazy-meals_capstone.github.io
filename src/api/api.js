@@ -3,17 +3,20 @@ import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
-import "../styles/api.scss";
+import Spinner from "react-bootstrap/Spinner";
 
-const API_KEY = process.env.OPENAI_API_KEY;
+const API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
 
 const RecipeGeneratorAPI = ({ selectedItems }) => {
-  const [recipes, setRecipes] = useState([]);
+  const [, setRecipes] = useState([]);
   const [, setSelectedItems] = useState([]);
   const [showModal, setShowModal] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
   const navigate = useNavigate();
 
   const fetchRecipes = async (selectedItems) => {
+    setIsLoading(true);
+
     const prompt = `I have these ingredients: ${selectedItems.join(
       ", "
     )}. Suggest 5 different recipes I can cook. The response should be 3 paragraphs. Don't include ingredient lists etc. Only provide recipes with the ingredients provided`;
@@ -59,9 +62,8 @@ const RecipeGeneratorAPI = ({ selectedItems }) => {
   return (
     <>
       <div>
-        {/* <h1>Hello API Recipe Will Follow Below</h1> */}
         <Button
-          id="fixed-btn"
+          id="generate-btn"
           onClick={handleGenerateButtonClick}
           type="submit"
         >
@@ -75,6 +77,16 @@ const RecipeGeneratorAPI = ({ selectedItems }) => {
           </Modal.Header>
         </Modal.Dialog>
       </Modal>
+      {isLoading && (
+        <div className="loading-container">
+          <Spinner
+            className="api-spinner"
+            animation="border"
+            variant="primary"
+          />
+          <p>Loading...</p>
+        </div>
+      )}
     </>
   );
 };
