@@ -5,7 +5,7 @@ import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import Spinner from "react-bootstrap/Spinner";
 
-//const API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
+const API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
 
 const RecipeGeneratorAPI = ({ selectedItems }) => {
   const [, setRecipes] = useState([]);
@@ -80,12 +80,14 @@ const RecipeGeneratorAPI = ({ selectedItems }) => {
       </Modal>
       {isLoading && (
         <div className="loading-container">
-          <Spinner
-            className="api-spinner"
-            animation="border"
-            variant="primary"
-          />
-          <p>Loading...</p>
+          <div className="spinner-container">
+            <Spinner
+              className="api-spinner"
+              animation="border"
+              variant="primary"
+            />
+            <p>Loading...</p>
+          </div>
         </div>
       )}
     </>
