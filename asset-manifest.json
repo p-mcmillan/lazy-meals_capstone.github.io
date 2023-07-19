@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/lazy-meals_capstone/static/css/main.202bb8fe.css",
+    "main.js": "/lazy-meals_capstone/static/js/main.a23c0b25.js",
+    "static/js/787.24d2defa.chunk.js": "/lazy-meals_capstone/static/js/787.24d2defa.chunk.js",
+    "static/media/LexendMega-VariableFont_wght.ttf": "/lazy-meals_capstone/static/media/LexendMega-VariableFont_wght.ce146fa00d38e2e592f9.ttf",
+    "static/media/planet-2.svg": "/lazy-meals_capstone/static/media/planet-2.59d62b502fd09b90b222fb2a5c8f0f56.svg",
+    "static/media/sphere-1.svg": "/lazy-meals_capstone/static/media/sphere-1.3b3b2cb5cbbbb20a946f7f977fc2c5b4.svg",
+    "static/media/sphere-2.svg": "/lazy-meals_capstone/static/media/sphere-2.0db913ac78fd763ef422c341f40e01c4.svg",
+    "static/media/LexendMega-SemiBold.ttf": "/lazy-meals_capstone/static/media/LexendMega-SemiBold.d6fb65383508a3604804.ttf",
+    "static/media/LexendMega-Bold.ttf": "/lazy-meals_capstone/static/media/LexendMega-Bold.23cd004a6fbc36f31646.ttf",
+    "static/media/LexendMega-ExtraBold.ttf": "/lazy-meals_capstone/static/media/LexendMega-ExtraBold.9dd2036dcf0e1709b119.ttf",
+    "static/media/LexendMega-Regular.ttf": "/lazy-meals_capstone/static/media/LexendMega-Regular.a489a6939ae422fb5323.ttf",
+    "static/media/2095680.png": "/lazy-meals_capstone/static/media/2095680.a7385aa952c6e42f23bc.png",
+    "static/media/2276866.png": "/lazy-meals_capstone/static/media/2276866.b7a2f385a198109fc17b.png",
+    "static/media/1065715.png": "/lazy-meals_capstone/static/media/1065715.c64aa31b08139881c3ad.png",
+    "static/media/4082738.png": "/lazy-meals_capstone/static/media/4082738.aa54553396ac9317d9d2.png",
+    "static/media/2515183.png": "/lazy-meals_capstone/static/media/2515183.93c17e36b682494abe0e.png",
+    "static/media/9480113.png": "/lazy-meals_capstone/static/media/9480113.9532c9d14fb5be6f4b61.png",
+    "static/media/planet-1.svg": "/lazy-meals_capstone/static/media/planet-1.20859bd62ed3ec776ae1694d880cd7c6.svg",
+    "index.html": "/lazy-meals_capstone/index.html",
+    "static/media/star-3.svg": "/lazy-meals_capstone/static/media/star-3.86dc8392065dd1e77df5a47fdbb62818.svg",
+    "static/media/star-2.svg": "/lazy-meals_capstone/static/media/star-2.a28f30f9ea9c5adce21f13742acb038a.svg",
+    "static/media/star-1.svg": "/lazy-meals_capstone/static/media/star-1.f9bfa0d214060eba6dc1d439f09327a5.svg",
+    "static/media/star-4.svg": "/lazy-meals_capstone/static/media/star-4.f9bfa0d214060eba6dc1d439f09327a5.svg",
+    "main.202bb8fe.css.map": "/lazy-meals_capstone/static/css/main.202bb8fe.css.map",
+    "main.a23c0b25.js.map": "/lazy-meals_capstone/static/js/main.a23c0b25.js.map",
+    "787.24d2defa.chunk.js.map": "/lazy-meals_capstone/static/js/787.24d2defa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202bb8fe.css",
+    "static/js/main.a23c0b25.js"
+  ]
+}
