@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lazy-meals_capstone/static/css/main.202bb8fe.css",
-    "main.js": "/lazy-meals_capstone/static/js/main.aac54c56.js",
+    "main.js": "/lazy-meals_capstone/static/js/main.5efdaa53.js",
     "static/js/787.24d2defa.chunk.js": "/lazy-meals_capstone/static/js/787.24d2defa.chunk.js",
     "static/media/LexendMega-VariableFont_wght.ttf": "/lazy-meals_capstone/static/media/LexendMega-VariableFont_wght.ce146fa00d38e2e592f9.ttf",
     "static/media/planet-2.svg": "/lazy-meals_capstone/static/media/planet-2.59d62b502fd09b90b222fb2a5c8f0f56.svg",
@@ -24,11 +24,11 @@
     "static/media/star-1.svg": "/lazy-meals_capstone/static/media/star-1.f9bfa0d214060eba6dc1d439f09327a5.svg",
     "static/media/star-4.svg": "/lazy-meals_capstone/static/media/star-4.f9bfa0d214060eba6dc1d439f09327a5.svg",
     "main.202bb8fe.css.map": "/lazy-meals_capstone/static/css/main.202bb8fe.css.map",
-    "main.aac54c56.js.map": "/lazy-meals_capstone/static/js/main.aac54c56.js.map",
+    "main.5efdaa53.js.map": "/lazy-meals_capstone/static/js/main.5efdaa53.js.map",
     "787.24d2defa.chunk.js.map": "/lazy-meals_capstone/static/js/787.24d2defa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.202bb8fe.css",
-    "static/js/main.aac54c56.js"
+    "static/js/main.5efdaa53.js"
   ]
 }
