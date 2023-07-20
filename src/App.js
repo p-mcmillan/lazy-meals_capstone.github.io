@@ -18,16 +18,22 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/lazy-meals_capstone" element={<Home />} />
           <Route
-            path="/independent-davie"
+            path="/lazy-meals_capstone/independent-davie"
             element={<DavieStreet davieData={davieData} />}
           />
-          <Route path="/add-store" element={<AddStore />} />
-          <Route path="/sign-up" element={<SignUp />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/" element={<RecipeGeneratorAPI />} />
-          <Route path="/recipes" element={<RecipesPage />} />
+          <Route path="/lazy-meals_capstone/add-store" element={<AddStore />} />
+          <Route path="/lazy-meals_capstone/sign-up" element={<SignUp />} />
+          <Route path="/lazy-meals_capstone/about" element={<About />} />
+          <Route
+            path="/lazy-meals_capstone/"
+            element={<RecipeGeneratorAPI />}
+          />
+          <Route
+            path="/lazy-meals_capstone/recipes"
+            element={<RecipesPage />}
+          />
           <Route path="*" element={<NotFoundPage />} />
           <Route element={<NotFoundPage />} />
         </Routes>

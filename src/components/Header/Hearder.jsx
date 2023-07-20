@@ -11,7 +11,10 @@ function Header() {
   return (
     <Navbar collapseOnSelect className=" custom-navbar color-nav">
       <Container>
-        <Navbar.Brand className="nav-logo" href="/">
+        <Navbar.Brand
+          className="nav-logo"
+          href="/lazy-meals_capstone/lazy-meals_capstone/"
+        >
           <img className="home-logo" src={EzMeals} alt="EzMeals" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -22,7 +25,7 @@ function Header() {
             <NavDropdown title="Stores" id="collasible-nav-dropdown">
               <NavDropdown.Item
                 className="custom-dropdown-item-1"
-                href="/independent-davie"
+                href="/lazy-meals_capstone/independent-davie"
               >
                 Independent Davie St
               </NavDropdown.Item>
@@ -33,14 +36,14 @@ function Header() {
               <NavDropdown.Divider />
               <NavDropdown.Item
                 className="custom-dropdown-item-2"
-                href="/add-store"
+                href="/lazy-meals_capstone/add-store"
               >
                 Submit Your Local Store
               </NavDropdown.Item>
             </NavDropdown>
           </Nav>
           <Nav>
-            <Nav.Link href="/sign-up">Sign Up</Nav.Link>
+            <Nav.Link href="/lazy-meals_capstone/sign-up">Sign Up</Nav.Link>
             <Nav.Link eventKey={2} href="*">
               Dank memes
             </Nav.Link>

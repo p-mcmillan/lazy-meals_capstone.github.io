@@ -44,7 +44,7 @@ const RecipeGeneratorAPI = ({ selectedItems }) => {
 
     setRecipes(recipes);
     setShowModal(true);
-    navigate("/recipes", { state: { recipes: recipes } });
+    navigate("/lazy-meals_capstone/recipes", { state: { recipes: recipes } });
   };
 
   const handleGenerateButtonClick = async (event) => {
