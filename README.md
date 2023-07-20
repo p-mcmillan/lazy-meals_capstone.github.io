@@ -1,4 +1,61 @@
-# Getting Started
+## Built With
+
+- React.js
+
+
+- Click [here](https://p-mcmillan.github.io/lazy-meals_capstone/) to view the live demo.
+  
+## Getting Started
+
+To get started follow these simple steps:
+
+### Prerequisites
+
+Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
+
+### Setup
+
+- With git, clone the code to your machine, or download a ZIP of all the files directly.
+- [Download the ZIP file from this location](https://github.com/p-mcmillan/lazy-meals_capstone/archive/refs/heads/main.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+
+```
+git clone https://github.com/p-mcmillan/lazy-meals_capstone.git
+```
+
+- Once the files are on your machine, open the **Portfolio-Template** folder in [Visual Studio Code](https://code.visualstudio.com/download).
+
+```
+cd lazy-meals_capstone && code .
+```
+
+## Install
+
+- After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run the following commands:
+
+```
+npm install
+```
+
+This will install all the packages and dependencies used in the project.
+
+### Dependecies
+
+- axios
+- bootstrap
+- dotenv
+- express
+- openai
+
+## Usage
+
+- Run the following command to start a local server:
+
+```
+npm start
+```
+
+This will open up the project on a browser on `http://localhost:3000/`
+
 
 # lazy-meals_capstone
 
@@ -11,26 +68,18 @@ This web application that leverages cutting-edge technologies to generate custom
 
 - 🔭 You can find the back-end to that project @ (https://github.com/p-mcmillan/lazy-meals_capstone-scraper)
 
-## Available Scripts
+## Authors
 
-In the project directory, you can run:
+👤 **Shaquille Ndunda**
 
-### `npm start`
-
-### Dependecies
-
-- axios
-- bootstrap
-- dotenv
-- express
-- openai
+- GitHub: [@p-mcmillan](https://github.com/p-mcmillan)
+- LinkedIn: [Pierre McMillan](https://www.linkedin.com/in/p-mcmillan-/)
+- - 📫: [Hello](hello@pierremcmillan.xyz)
 
 - 🌱 I’m currently learning JS
 
-- 👨‍💻 All of my projects are available at [pierremcmillan.yxz](pierremcmillan.yxz)
-
-- 📫 How to reach me **p.mcmillan@me.com**
-
+- 👨‍💻 All of my projects are available at [pierremcmillan.xyz](pierremcmillan.xyz)
+- 
 - ⚡ Fun fact **My 🚴 has no breaks**
 
 <h3 align="left">Connect with me:</h3>
