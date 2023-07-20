@@ -26,10 +26,7 @@ function App() {
           <Route path="/lazy-meals_capstone/add-store" element={<AddStore />} />
           <Route path="/lazy-meals_capstone/sign-up" element={<SignUp />} />
           <Route path="/lazy-meals_capstone/about" element={<About />} />
-          <Route
-            path="/lazy-meals_capstone/"
-            element={<RecipeGeneratorAPI />}
-          />
+          <Route path="/lazy-meals_capstone" element={<RecipeGeneratorAPI />} />
           <Route
             path="/lazy-meals_capstone/recipes"
             element={<RecipesPage />}

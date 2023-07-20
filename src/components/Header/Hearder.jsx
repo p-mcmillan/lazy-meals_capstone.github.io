@@ -13,7 +13,7 @@ function Header() {
       <Container>
         <Navbar.Brand
           className="nav-logo"
-          href="/lazy-meals_capstone/lazy-meals_capstone/"
+          href="/lazy-meals_capstone/lazy-meals_capstone"
         >
           <img className="home-logo" src={EzMeals} alt="EzMeals" />
         </Navbar.Brand>
