@@ -70,16 +70,15 @@ This web application that leverages cutting-edge technologies to generate custom
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Pierre McMillan**
 
-- GitHub: [@p-mcmillan](https://github.com/p-mcmillan)
-- LinkedIn: [Pierre McMillan](https://www.linkedin.com/in/p-mcmillan-/)
-- - 📫: [Hello](hello@pierremcmillan.xyz)
+
+- 📫: [Hello](hello@pierremcmillan.xyz)
 
 - 🌱 I’m currently learning JS
 
 - 👨‍💻 All of my projects are available at [pierremcmillan.xyz](pierremcmillan.xyz)
-- 
+  
 - ⚡ Fun fact **My 🚴 has no breaks**
 
 <h3 align="left">Connect with me:</h3>
